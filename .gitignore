@@ -1,0 +1,6 @@
+*.exe
+*.lib
+*.exp
+.DS_Store
+.swiftpm
+.build
